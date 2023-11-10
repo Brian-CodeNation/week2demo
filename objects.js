@@ -3,11 +3,11 @@ let person = {
     age: 38
 };
 
-// console.log(person.age);
-// console.log(person["age"]);
+console.log(person.age);
+console.log(person["age"]);
 
-// let offer = "none";
-// let time = 1700;
+let offer = "none";
+let time = 1700;
 
 // const cafe = {
 //     name: "Whitesheep",
